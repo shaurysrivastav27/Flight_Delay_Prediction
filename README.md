@@ -146,6 +146,7 @@ We used the GridSearchCV for finding the best learning rate for the algo to work
         =   Σ wj (x) . mj(x)
 In python, we used the minimum error approach for finding the optimal cluster count
 ![](https://github.com/shaurysrivastav27/Flight_Delay_Prediction/blob/main/notebooks/Final/plots/gaussian_mixture.png)
+![](https://github.com/shaurysrivastav27/Flight_Delay_Prediction/blob/main/notebooks/Final/plots/plot.jpg)
  
     
 Finally, we had  to move beyond linearity to get our solution. We used the method of ensembling / stacking to get our best results using the StackingCVRegressor
